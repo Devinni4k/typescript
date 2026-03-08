@@ -1,42 +1,41 @@
-Node TypeScript API
-Descripción
+# Node TypeScript API
+## Descripción
 
-Este proyecto es una API básica desarrollada con Node.js, Express y TypeScript como parte de una práctica de desarrollo de APIs.
+**Este proyecto es una API básica desarrollada con Node.js, Express y TypeScript como parte de una práctica de desarrollo de APIs.**
 
-El servidor incluye rutas que demuestran el uso de:
+#### El servidor incluye rutas que demuestran el uso de:
 
 rutas básicas
 
 parámetros dinámicos (params)
 
 parámetros de consulta (query)
+---
+#### Tecnologías utilizadas
 
-Tecnologías utilizadas
+-Node.js
+-Express.js
+-TypeScript
 
-Node.js
+### Instalación
 
-Express.js
-
-TypeScript
-
-Instalación
-
-Clonar el repositorio:
+1. Clonar el repositorio:
 git clone https://github.com/Devinni4k/node-typescript-api.git
 
-Entrar al proyecto: 
+2. Entrar al proyecto: 
 cd node-typescript-api
 
-Instalar dependencias:
+```3. Instalar dependencias:
 npm install
+```
 
-Ejecutar el servidor:
+4. Ejecutar el servidor:
 npm run dev
 
-El servidor correra en: 
+#### El servidor correra en: 
 http://localhost:3000
 
-Endpoints disponibles
+#### Endpoints disponibles
 Ruta base
 GET/
 Respuesta:
