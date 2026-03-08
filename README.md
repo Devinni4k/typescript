@@ -19,18 +19,25 @@ parámetros de consulta (query)
 
 ### Instalación
 
-```1. Clonar el repositorio:
-git clone https://github.com/Devinni4k/node-typescript-api.git```
+```
+1. Clonar el repositorio:
+git clone https://github.com/Devinni4k/node-typescript-api.git
+```
 
-```2. Entrar al proyecto: 
-cd node-typescript-api```
+```
+2. Entrar al proyecto: 
+cd node-typescript-api
+```
 
-```3. Instalar dependencias:
+```
+3. Instalar dependencias:
 npm install
 ```
 
-```4. Ejecutar el servidor:
-npm run dev```
+```
+4. Ejecutar el servidor:
+npm run dev
+```
 
 #### El servidor correra en: 
 ```http://localhost:3000```
