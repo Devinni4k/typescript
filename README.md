@@ -9,7 +9,7 @@ rutas básicas
 
 parámetros dinámicos (params)
 
-parámetros de consulta (query)
+Parámetros de consulta (query)
 ---
 #### Tecnologías utilizadas
 
